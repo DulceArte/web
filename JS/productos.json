@@ -1,0 +1,85 @@
+   [ 
+    {
+        "id": "cake-01",
+        "titulo": "Trata de merengue con coverturas de chocolate",
+        "imagen": "/img/cake1.jpeg",
+        "categoria": {
+            "nombre": "Cackes",
+            "id": "cakes"
+        },
+        "precio": "2500"
+    },
+    {
+        "id": "cake-02",
+        "titulo": "Tarta de merengue con dulces",
+        "imagen": "/img/cake2.jpeg",
+        "categoria": {
+            "nombre": "Cackes",
+            "id": "cakes"
+        },
+        "precio": "2200"
+    },
+    {
+        "id": "cake-03",
+        "titulo": "Tarta de merengue mini",
+        "imagen": "/img/cake3.jpeg",
+        "categoria": {
+            "nombre": "Cackes",
+            "id": "cakes"
+        },
+        "precio": "1700"
+    },
+    {
+        "id": "cake-04",
+        "titulo": "Tarta de merengue italiano",
+        "imagen": "/img/cake4.jpeg",
+        "categoria": {
+            "nombre": "Cackes",
+            "id": "cakes"
+        },
+        "precio": "2000"
+    },
+    {
+        "id": "cake-05",
+        "titulo": "Tarta de merengue italiano",
+        "imagen": "/img/cake5.jpeg",
+        "categoria": {
+            "nombre": "Cackes",
+            "id": "cakes"
+        },
+        "precio": "2000"
+    },
+    {
+        "id": "cake-06",
+        "titulo": "Tarta bombón convencional",
+        "imagen": "/img/cake6.jpeg",
+        "categoria": {
+            "nombre": "Cackes",
+            "id": "cakes"
+        },
+        "precio": "500"
+    },
+
+{
+    "id": "Buffet-01",
+    "titulo": "Empanadillas simples c/u",
+    "imagen": "/img/buffet1.jpeg",
+    "categoria": {
+        "nombre": "Buffets",
+        "id": "buffets"
+    },
+    "precio": "15"
+},
+
+{
+    "id": "Buffet-02",
+    "titulo": "Croquetas c/u",
+    "imagen": "/img/buffet2.jpeg",
+    "categoria": {
+        "nombre": "Buffets",
+        "id": "buffets"
+    },
+    "precio": "10"
+}
+
+]
